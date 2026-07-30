@@ -1,0 +1,214 @@
+<!DOCT<!DOCTYPE html><a class="btn" href="https://wa.me/923427036620?text=Assalam%20Alaikum%2C%20I%20want%20to%20order%20a%20watch.">
+Order on WhatsApp
+</a>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MK Watch Store</title>
+
+<style>
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#111;
+color:white;
+text-align:center;
+}
+
+header{
+background:#000;
+padding:25px;
+}
+
+h1{
+color:gold;
+font-size:40px;
+}
+
+p{
+color:#ddd;
+}
+
+.btn{
+display:inline-block;
+padding:12px 25px;
+background:gold;
+color:black;
+text-decoration:none;
+border-radius:8px;
+font-weight:bold;
+margin-top:10px;
+}
+
+.products{
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+padding:20px;
+}
+
+.card{
+background:#222;
+margin:15px;
+padding:15px;
+border-radius:12px;
+width:250px;
+box-shadow:0 0 10px gold;
+}
+
+.card img{
+width:100%;
+border-radius:10px;
+}
+
+.price{
+color:gold;
+font-size:22px;
+font-weight:bold;
+}
+
+footer{
+background:#000;
+padding:20px;
+margin-top:20px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>⌚ MK Watch Store</h1>
+<p>Premium Watches at Best Prices</p>
+
+<a class="btn" href="https://wa.me/923427036620">
+Order on WhatsApp
+</a>
+</header>
+
+<h2>Featured Watches</h2>
+
+<div class="products">
+
+<div class="card">
+<img src="https://via.placeholder.com/250x250?text=Rolex+Watch">
+<h3>Rolex Silver</h3>
+<p class="price">Rs. 4,999</p>
+<a class="btn" href="https://wa.me/923427036620">Buy Now</a>
+</div>
+
+<div class="card">
+<img src="https://via.placeholder.com/250x250?text=Gucci+Watch">
+<h3>Gucci Green</h3>
+<p class="price">Rs. 2,999</p>
+<a class="btn" href="https://wa.me/923427036620">Buy Now</a>
+</div>
+
+<div class="card">
+<img src="https://via.placeholder.com/250x250?text=Curren+Watch">
+<h3>Curren Brown</h3>
+<p class="price">Rs. 2,499</p>
+<a class="btn" href="https://wa.me/923427036620">Buy Now</a>
+</div>
+
+<div class="card">
+<img src="https://via.placeholder.com/250x250?text=Sport+Watch">
+<h3>Sport Watch</h3>
+<p class="price">Rs. 1,999</p>
+<a class="btn" href="https://wa.me/923427036620">Buy Now</a>
+</div>
+
+</div>
+
+<footer>
+<p>© 2026 MK Watch Store</p>
+</footer>
+
+</body>
+</html>YPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MK Watch Store</title>
+
+<style>
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#111;
+color:white;
+text-align:center;
+}
+
+header{
+background:#000;
+padding:25px;
+}
+
+h1{
+color:gold;
+font-size:40px;
+}
+
+p{
+color:#ddd;
+}
+
+.btn{
+display:inline-block;
+padding:12px 25px;
+background:gold;
+color:black;
+text-decoration:none;
+border-radius:8px;
+font-weight:bold;
+margin-top:10px;
+}
+
+.products{
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+padding:20px;
+}
+
+.card{
+background:#222;
+margin:15px;
+padding:15px;
+border-radius:12px;
+width:250px;
+box-shadow:0 0 10px gold;
+}
+
+.card img{
+width:100%;
+border-radius:10px;
+}
+
+.price{
+color:gold;
+font-size:22px;
+font-weight:bold;
+}
+
+footer{
+background:#000;
+padding:20px;
+margin-top:20px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>⌚ MK Watch Store</h<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MK Watch Store</title>
+<style>body{font-family:Arial;background:#111;color:#fff;text-align:center;margin:0}header{background:#000;padding:30px}h1{color:gold}.btn{display:inline-block;padding:12px 24px;background:gold;color:#000;text-decoration:none;border-radius:8px}</style>
+</head><body><header><h1>⌚ MK Watch Store</h1><p>Premium Watches at Best Prices</p><a class="btn" href="https://wa.me/">Order on WhatsApp</a></header><h2>Welcome</h2><p>Welcome to MK Watch Store.</p></body></html>
