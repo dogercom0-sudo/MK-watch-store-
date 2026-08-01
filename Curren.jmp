@@ -1,0 +1,27 @@
+<div style="background: #000; padding: 30px; border-radius: 15px; text-align: center; max-width: 400px; margin: auto; color: white; font-family: Arial, sans-serif;">
+  
+  <!-- Watch Image -->
+  <img src="images/curren-red.jpg" alt="Curren Leather Watch" style="width:100%; border-radius:12px; margin-bottom: 20px;">
+  
+  <!-- Brand Name -->
+  <h2 style="color: #FFD700; margin: 5px 0; font-size: 28px; letter-spacing: 2px;">CURREN</h2>
+  
+  <!-- Sub Title -->
+  <p style="color: #fff; margin: 5px 0; font-size: 16px;">Leather Strap Edition</p>
+  
+  <!-- Price -->
+  <h3 style="color: #00FF7F; margin: 15px 0; font-size: 24px;">Rs 1,200</h3>
+  
+  <!-- Features -->
+  <div style="text-align: left; display: inline-block; margin: 15px 0;">
+    <p style="margin: 8px 0;">✓ Premium Leather Strap</p>
+    <p style="margin: 8px 0;">✓ Black Dial Design</p>
+    <p style="margin: 8px 0;">✓ Daily Wear Watch</p>
+  </div>
+  
+  <!-- Button -->
+  <a href="https://wa.me/92XXXXXXXXXX" style="display: block; background: #FFD700; color: #000; padding: 12px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 18px; margin-top: 15px;">
+    MK Watch Store - Order Now
+  </a>
+
+</div>
